@@ -54,3 +54,7 @@ button {
 button:hover {
 	background: #9057BB;
 }
+
+button:active {
+	background: #3C0563;
+}

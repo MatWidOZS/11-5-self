@@ -1,7 +1,7 @@
 $(function() {
 
 	function Button(text) {
-		this.text = text || 'Default';
+		this.text = text || 'Default_';
 	}
 
 	Button.prototype = {

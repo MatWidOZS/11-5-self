@@ -29,4 +29,5 @@ $(function() {
 	var btnDefault = new Button();
 
 	btnDefault.create();
+	
 });
